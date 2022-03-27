@@ -11,6 +11,7 @@
   inputs.src-espeak-master.ref   = "refs/heads/master";
   inputs.src-espeak-master.owner = "juancarlospaco";
   inputs.src-espeak-master.repo  = "nim-espeak";
+  inputs.src-espeak-master.dir   = "";
   inputs.src-espeak-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
