@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-espeak",
   "refs": [
-    "fatal: unable to access 'https://github.com/juancarlospaco/nim-espeak/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/juancarlospaco/nim-espeak/': SSL connection timeout",
     ""
   ],
   "heads": []
