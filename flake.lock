@@ -111,11 +111,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668775803,
-        "narHash": "sha256-F9rCPgOQDj2iwjhgCfIbQ5VrgxXOhkEzLHR9YYkyqXM=",
+        "lastModified": 1669431082,
+        "narHash": "sha256-njXh4Cks58nmkAIBYtI/er9ayA7hq83szG14Wf3u0oM=",
         "owner": "nim-nix-pkgs",
         "repo": "espeak",
-        "rev": "08de416a23fb0e0518780d0c08fff2231064f63c",
+        "rev": "5ba9c5f3ae89429280374576d295e1ddcdd4add7",
         "type": "github"
       },
       "original": {
